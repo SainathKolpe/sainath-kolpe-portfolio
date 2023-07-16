@@ -1,4 +1,4 @@
-# <a href="https://people.umass.edu/avsingh" target="_blank">My Alternate Portfolio Website</a>
+# <a href="https://sainathkolpe.github.io/sainath-kolpe-portfolio/" target="_blank">My Alternate Portfolio Website</a>
 
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://sainathkolpe.github.io/sainath-kolpe-portfolio//)
 [![Author](https://img.shields.io/badge/Author-Sainath%20Khandu%20Kolpe-blue.svg)](https://www.linkedin.com/in/sainath-kolpe-79b0b6227/)
