@@ -1,6 +1,6 @@
 # <a href="https://people.umass.edu/avsingh" target="_blank">My Alternate Portfolio Website</a>
 
-[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/AVS1508/My-Alternate-Portfolio-Website/)
+[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://sainathkolpe.github.io/sainath-kolpe-portfolio//)
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://people.umass.edu/avsingh)
 [![Author](https://img.shields.io/badge/Author-Sainath%20Khandu%20Kolpe-blue.svg)](https://www.linkedin.com/in/sainath-kolpe-79b0b6227/)
 [![Latest Release](https://img.shields.io/badge/Latest%20Release-13%20June%202021-yellow.svg)](https://github.com/AVS1508/My-Alternate-Portfolio-Website/commit/master)
